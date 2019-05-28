@@ -1,0 +1,67 @@
+body{
+
+	background-color:#FFC300 ;
+	 
+}
+.main
+{
+	background:#ff5733; 
+	position:relative;
+	width:700px;
+	margin:0px auto;
+	box-shadow:0px 0px 30px black;
+}
+.menu
+{
+	width:698px;
+	height:58px;
+	background:#dfab00;
+	padding:0px 0px 0px 2px;
+}
+.menu a
+{
+   display:block;
+   background:#ff5733;
+   height:40px;
+   width:170px;
+   padding-top:12px;
+   margin:3px 2px 4px 2px;
+   float:left;
+
+   font-family:impact;
+   font-size:14pt;
+   letter-spacing:2.8px;
+   color:#ffffff;
+   text-decoration:none;
+   text-align:center;
+}
+.menu a:hover
+	{
+   background:#dfab00;
+   color:#fff;
+	}
+.center p
+	{
+   text-align:center;
+   padding:30px 20px 1px 20px;
+   color:white;
+   font-size:16px;
+   font-family:mpact;
+   letter-spacing:0.5px;
+	}
+/*.top_index
+	{
+   position:relative;
+   background:#777777 url(image/prapor-min.png);
+   background-repeat:no-repeat;
+   width:700px;
+   height:420px;
+   }*/
+li{
+	text-align: left;
+    padding: 10px 20px 1px 20px;
+    color: white;
+    font-size: 16px;
+    font-family: mpact;
+    letter-spacing: 0.5px;
+   }
